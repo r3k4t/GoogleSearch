@@ -9,6 +9,7 @@ print
 time.sleep(4)
 os.system("apt install figlet")
 os.system("apt install sl")
+os.system("apt install w3m")
 print
 print " #### install Complete  #### "
 print
