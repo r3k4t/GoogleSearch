@@ -41,9 +41,7 @@ python2 google.py
 
 ### Screenshots ###
 
-![Screenshot_2020-09-12-06-46-15-702_com termux](https://user-images.githubusercontent.com/69615463/92984193-36e88280-f4ca-11ea-9251-7d7fc897a826.jpg)
-
-![Screenshot_2020-09-12-06-40-16-407_com termux](https://user-images.githubusercontent.com/69615463/92984213-5e3f4f80-f4ca-11ea-8ebd-609636a776df.jpg)
+![Screenshot_2020-09-12-06-46-15-702_com termux](https://user-images.githubusercontent.com/69615463/92984193-36e88280-f4ca-11ea-9251-7d7fc897a826.jpg
 
 ![Screenshot_2020-09-12-06-40-11-573_com termux](https://user-images.githubusercontent.com/69615463/92984225-85961c80-f4ca-11ea-99a4-894a81e6c530.jpg)
 
